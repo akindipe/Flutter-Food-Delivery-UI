@@ -1,6 +1,6 @@
-# food_delivery_ui
+## Flutter Food Delivery UI
 
-A new Flutter application.
+This is a flutter project for placing orders from nearby resaurants.
 
 ## Getting Started
 
